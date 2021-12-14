@@ -1,0 +1,9 @@
+.interpoint{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.interpoint_text{
+    font-weight: 600;
+}
